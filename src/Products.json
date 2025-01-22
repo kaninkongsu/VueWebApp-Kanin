@@ -1,0 +1,71 @@
+[
+  {
+  "id": 0,
+    "name": "iPhone 14",
+    "detail": "iPhone",
+    "coverimage": "src/img/iPhone 14.jpg"  
+  },
+  {
+    "id": 1,
+    "name": "Camera",
+    "detail": "Camra x7",
+    "coverimage": "src/img/Camera.jpg",
+    "price": "฿5000"
+  },
+  {
+    "id": 2,
+    "name": "Sunglasses",
+    "detail": "Sunglasses x3",
+    "coverimage": "src/img/Sunglasses.jpg",
+    "price": "฿500"
+  },
+  {
+    "id": 3,
+    "name": "CELINE1",
+    "detail": "CELINE",
+    "coverimage": "src/img/CELINE.jpg",
+    "price": "฿1000"
+  },
+  {
+    "id": 4,
+    "name": "CLASSIQUE TRIOMPHE",
+    "detail": "CLASSIQUE",
+    "coverimage": "src/img/images.jpg",
+    "price": "฿5000"
+  },
+  {
+    "id": 5,
+    "name": "Wrangler 1",
+    "detail": "wrangler",
+    "coverimage": "src/img/Wrangler.jpg",
+    "price": "฿599"
+  },
+  {
+    "id": 6,
+    "name": "AURTIENDE",
+    "detail": "AURTIENDE01",
+    "coverimage": "src/img/AURTIENDE.jpg",
+    "price": "฿399"
+  },
+  {
+    "id": 7,
+    "name": "Nike Dunk Low Retro",
+    "detail": "Nike", 
+    "coverimage": "src/img/Nike Dunk Low Retro.jpg",
+    "price": "฿3700"
+  },
+  {
+    "id": 8,
+    "name": "Jacquard Monogram Boston Red Sox",
+    "detail": "Jacquard",
+    "coverimage": "src/img/Jacquard Monogram Boston Red Sox.jpg",
+    "price": "฿2000"
+  },
+  {
+    "id": 9,
+    "name": "uniqlo 7",
+    "detail": "uniqlo",
+    "coverimage": "src/img/uniqlo.jpg",
+    "price": "1400"
+  }
+]
